@@ -1,5 +1,7 @@
+<div align="center">
 [![MasterHead](https://i.pinimg.com/originals/89/cb/1a/89cb1a31c0b35cb5b3a5eaaf4a1b7a39.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Aubre Body</h1>
+</div>
+ <h1 align="center">Hi 👋, I'm Aubre Body</h1>
 <h3 align="center">A passionate DevOps, React Naive Engineer and Machine Learning hobbyist</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aubbsdev21" alt="aubbsdev21" /></a> </p>
