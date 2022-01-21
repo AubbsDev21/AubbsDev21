@@ -1,6 +1,6 @@
-<div align="center">
+
 [![MasterHead](https://i.pinimg.com/originals/89/cb/1a/89cb1a31c0b35cb5b3a5eaaf4a1b7a39.gif)](https://rishavchanda.io)
-</div>
+
  <h1 align="center">Hi 👋, I'm Aubre Body</h1>
 <h3 align="center">A passionate DevOps, React Naive Engineer and Machine Learning hobbyist</h3>
 
