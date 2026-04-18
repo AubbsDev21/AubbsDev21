@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Aubre Body</h1>
-<h3 align="center">Infrastructure Platform Engineer | Army Veteran | kubernetes & Automation </h3>
+<h3 align="center">Infrastructure Platform Engineer | Army Veteran | Kubernetes & Automation </h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
